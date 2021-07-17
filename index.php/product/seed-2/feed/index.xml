@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Seed 2	</title>
-	<atom:link href="http://kuttiagrico.com/index.php/product/seed-2/feed/" rel="self" type="application/rss+xml" />
-	<link>http://kuttiagrico.com/index.php/product/seed-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 17 Jul 2021 11:34:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
