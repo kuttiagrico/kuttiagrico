@@ -1,0 +1,124 @@
+{"products":[
+    {
+        "id":1,
+        "name":"Tulasi Madam",
+        "img":"assets/tulsi.png",
+        "category":"Terracotta",
+        "price":"200",
+        "mrp":"220",
+        "tag4l":"new",
+        "short_desc":"An exampletext used as the short description for the platform.",
+        "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+        "related":[2,3,4,5]
+      },
+      {
+          "id":2,
+          "name":"Plastic Pot",
+          "img":"assets/pot.png",
+          "category":"Fiber Product",
+          "price":"150",
+          "mrp":"165",
+          "tag4l":"new",
+          "short_desc":"An exampletext used as the short description for the platform.",
+          "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+          "related":[1,3,4,5]
+        },
+        {
+            "id":3,
+            "name":"Grid Mats",
+            "img":"assets/mat.png",
+            "category":"Fiber Product",
+            "price":"130",
+            "mrp":"150",
+            "tag4l":"new",
+            "short_desc":"An exampletext used as the short description for the platform.",
+            "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+            "related":[2,1,4,5]
+          },
+        
+          {
+              "id":4,
+              "name":"Featured Pot",
+              "img":"assets/handle.png",
+              "category":"Fiber Product",
+              "price":"180",
+              "mrp":"200",
+              "tag4l":"new",
+              "short_desc":"An exampletext used as the short description for the platform.",
+              "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+              "related":[2,3,1,5]
+            },
+            {
+                "id":5,
+                "name":"Tulasi Madam5",
+                "img":"assets/tulsi.png",
+                "category":"Terracotta",
+                "price":"200",
+                "mrp":"220",
+                "tag4l":"new",
+                "short_desc":"An exampletext used as the short description for the platform.",
+                "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                "related":[2,3,4,1]
+              },
+              {
+                  "id":6,
+                  "name":"Tulasi Madam6",
+                  "img":"assets/tulsi.png",
+                  "category":"Terracotta",
+                  "price":"200",
+                  "mrp":"220",
+                  "tag4l":"new",
+                  "short_desc":"An exampletext used as the short description for the platform.",
+                  "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                  "related":[2,3,4,5]
+                },
+                {
+                    "id":7,
+                    "name":"Tulasi Madam7",
+                    "img":"assets/tulsi.png",
+                    "category":"Terracotta",
+                    "price":"200",
+                    "mrp":"220",
+                    "tag4l":"new",
+                    "short_desc":"An exampletext used as the short description for the platform.",
+                    "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                    "related":[2,3,4,5]
+                  },
+                  {
+                      "id":8,
+                      "name":"Tulasi Madam8",
+                      "img":"assets/tulsi.png",
+                      "category":"Terracotta",
+                      "price":"200",
+                      "mrp":"220",
+                      "tag4l":"new",
+                      "short_desc":"An exampletext used as the short description for the platform.",
+                      "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                      "related":[2,3,4,5]
+                    },
+                    {
+                        "id":9,
+                        "name":"Tulasi Madam9",
+                        "img":"assets/tulsi.png",
+                        "category":"Terracotta",
+                        "price":"200",
+                        "mrp":"220",
+                        "tag4l":"new",
+                        "short_desc":"An exampletext used as the short description for the platform.",
+                        "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                        "related":[2,3,4,5]
+                      },
+                      {
+                          "id":10,
+                          "name":"Tulasi Madam10",
+                          "img":"assets/tulsi.png",
+                          "category":"Terracotta",
+                          "price":"200",
+                          "mrp":"220",
+                          "tag4l":"new",
+                          "short_desc":"An exampletext used as the short description for the platform.",
+                          "full_desc":"This will be the full description for the product.the example short descriptions expanded full deaatiled will be given here it can be as big as a full page.",
+                          "related":[2,3,4,5]
+                        }
+
+]}
